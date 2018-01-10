@@ -4,7 +4,7 @@
 		
 	<div class="banner">
 		<div class="container">
-	  <script src="resources/user/js/responsiveslides.min.js"></script>
+	  <script src="/funiture/resources/user/js/responsiveslides.min.js"></script>
   <script>
     $(function () {
       $("#slider").responsiveSlides({
@@ -59,7 +59,7 @@
 			<div class="content-top-bottom">
 				<h2>Best seller</h2>
 				<div class="col-md-6 men">
-					<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="resources/user/images/t1.jpg" alt="">
+					<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/funiture/resources/user/images/t1.jpg" alt="">
 						<div class="b-wrapper">
 											<h3 class="b-animate b-from-top top-in   b-delay03 ">
 												<span>TRIBECA LIVING</span>	
@@ -71,7 +71,7 @@
 				</div>
 				<div class="col-md-6">
 					<div class="col-md1 ">
-						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="resources/user/images/t2.jpg" alt="">
+						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/funiture/resources/user/images/t2.jpg" alt="">
 							<div class="b-wrapper">
 											<h3 class="b-animate b-from-top top-in1   b-delay03 ">
 												<span>CLARISSA</span>	
@@ -82,7 +82,7 @@
 					</div>
 					<div class="col-md2">
 						<div class="col-md-6 men1">
-							<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="resources/user/images/t3.jpg" alt="">
+							<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/funiture/resources/user/images/t3.jpg" alt="">
 									<div class="b-wrapper">
 											<h3 class="b-animate b-from-top top-in2   b-delay03 ">
 												<span>COLORMATE</span>	
@@ -92,7 +92,7 @@
 							
 						</div>
 						<div class="col-md-6 men2">
-							<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="resources/user/images/t4.jpg" alt="">
+							<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/funiture/resources/user/images/t4.jpg" alt="">
 									<div class="b-wrapper">
 											<h3 class="b-animate b-from-top top-in2   b-delay03 ">
 												<span>HERLEQUIN</span>	
@@ -110,7 +110,7 @@
 				<h1>NEW PRODUCTS</h1>
 				<div class="grid-in">
 					<div class="col-md-3 grid-top simpleCart_shelfItem">
-						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="resources/user/images/pi.jpg" alt="">
+						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/funiture/resources/user/images/pi.jpg" alt="">
 							<div class="b-wrapper">
 								<h3 class="b-animate b-from-left    b-delay03 ">
 									<span>TRIBECA LIVING</span>
@@ -124,7 +124,7 @@
 					<a href="#" class="item_add"><p class="number item_price"><i> </i>$500.00</p></a>
 					</div>
 					<div class="col-md-3 grid-top simpleCart_shelfItem">
-						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="resources/user/images/pi1.jpg" alt="">
+						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/funiture/resources/user/images/pi1.jpg" alt="">
 							<div class="b-wrapper">
 											<h3 class="b-animate b-from-left    b-delay03 ">
 												<span>ESSENTIAL</span>	
@@ -135,7 +135,7 @@
 					<a href="#" class="item_add"><p class="number item_price"><i> </i>$500.00</p></a>
 					</div>
 					<div class="col-md-3 grid-top simpleCart_shelfItem">
-						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="resources/user/images/pi2.jpg" alt="">
+						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/funiture/resources/user/images/pi2.jpg" alt="">
 							<div class="b-wrapper">
 											<h3 class="b-animate b-from-left    b-delay03 ">
 												<span>CLARISSA</span>	
@@ -146,7 +146,7 @@
 					<a href="#" class="item_add"><p class="number item_price"><i> </i>$500.00</p></a>
 					</div>
 					<div class="col-md-3 grid-top">
-						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="resources/user/images/pi4.jpg" alt="">
+						<a href="single.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/funiture/resources/user/images/pi4.jpg" alt="">
 							<div class="b-wrapper">
 											<h3 class="b-animate b-from-left    b-delay03 ">
 												<span>LITTLE HOME</span>	

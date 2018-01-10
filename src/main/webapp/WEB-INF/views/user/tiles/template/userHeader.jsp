@@ -4,12 +4,12 @@
 <html>
 <head>
 <title>FUN-ITURE:::YOUR FURNITURE MUST BE SUPER FUN</title>
-<link href="resources/user/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/funiture/resources/user/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="resources/user/js/jquery.min.js"></script>
+<script src="/funiture/resources/user/js/jquery.min.js"></script>
 <!-- Custom Theme files -->
 <!--theme-style-->
-<link href="resources/user/css/style.css" rel="stylesheet" type="text/css" media="all" />	
+<link href="/funiture/resources/user/css/style.css" rel="stylesheet" type="text/css" media="all" />	
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -20,10 +20,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'><!--//fonts-->
 <!-- start menu -->
-<link href="resources/user/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
-<script type="text/javascript" src="resources/user/js/memenu.js"></script>
+<link href="/funiture/resources/user/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="/funiture/resources/user/js/memenu.js"></script>
 <script>$(document).ready(function(){$(".memenu").memenu();});</script>
-<script src="resources/user/js/simpleCart.min.js"> </script>
+<script src="/funiture/resources/user/js/simpleCart.min.js"> </script>
 </head>
 <body>
 <!--header-->
@@ -52,8 +52,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			
 <!-- search-scripts -->
-					<script src="resources/user/js/classie.js"></script>
-					<script src="resources/user/js/uisearch.js"></script>
+					<script src="/funiture/resources/user/js/classie.js"></script>
+					<script src="/funiture/resources/user/js/uisearch.js"></script>
 						<script>
 							new UISearch( document.getElementById( 'sb-search' ) );
 						</script>
@@ -61,10 +61,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 				<div class="ca-r">
 					<div class="cart box_1">
-						<a href="checkout.html">
+						<a href="checkout.jsp">
 						<h3> <div class="total">
 							<span class="simpleCart_total"></span> </div>
-							<img src="resources/user/images/cart.png" alt=""/></h3>
+							<img src="/funiture/resources/user/images/cart.png" alt=""/></h3>
 						</a>
 						<p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
 

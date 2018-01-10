@@ -2,25 +2,25 @@
     pageEncoding="UTF-8"%>
 
     <!-- Bootstrap Core CSS -->
-    <link href="resources/admin/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/funiture/resources/admin/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- MetisMenu CSS -->
-    <link href="resources/admin/css/metisMenu.min.css" rel="stylesheet">
+    <link href="/funiture/resources/admin/css/metisMenu.min.css" rel="stylesheet">
 
     <!-- DataTables CSS -->
-    <link href="resources/admin/css/dataTables.bootstrap.css" rel="stylesheet">
+    <link href="/funiture/resources/admin/css/dataTables.bootstrap.css" rel="stylesheet">
 
     <!-- DataTables Responsive CSS -->
-    <link href="resources/admin/css/dataTables.responsive.css" rel="stylesheet">
+    <link href="/funiture/resources/admin/css/dataTables.responsive.css" rel="stylesheet">
 
     <!-- Social Buttons CSS -->
-    <link href="resources/admin/vendor/bootstrap-social/bootstrap-social.css" rel="stylesheet">
+    <link href="/funiture/resources/admin/vendor/bootstrap-social/bootstrap-social.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="resources/admin/css/sb-admin-2.css" rel="stylesheet">
+    <link href="/funiture/resources/admin/css/sb-admin-2.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="resources/admin/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/funiture/resources/admin/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
